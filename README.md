@@ -13,3 +13,5 @@ their names, ages, and balances must be kept there.
 They must be able to withdraw/deposit money from/to their accounts.
 When the balance on the contract is reduced, the house must be able to deposit money.
 The money on the contract must be sent to house if needed. 
+
+You can run the code on remix ide
